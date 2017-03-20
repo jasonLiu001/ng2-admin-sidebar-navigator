@@ -1,2 +1,2 @@
-# ng2-admin-sidebar-navigator
-a sidebar from ng2-admin project.
+# angular2-cms-admin
+a cms management system template.
